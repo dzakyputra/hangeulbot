@@ -8,7 +8,7 @@
 
 Read the full tutorial in my Medium article here.
 
-You can check the bot in here, type `/word` command to get a word and an audio file.
+You can check the bot in [here](https://t.me/learnhangeulbot), type `/word` command to get a word and an audio file.
 
 ## Prerequisites
 
