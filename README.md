@@ -6,7 +6,7 @@
 
 <br>
 
-Read the full tutorial in my Medium article here.
+Read the full tutorial in my Medium article [here](https://towardsdatascience.com/create-a-telegram-bot-to-help-you-learn-a-new-language-aef10607b5f9?source=friends_link&sk=da043bfdb17b9559af7a75321cf30e72).
 
 You can check the bot in [here](https://t.me/learnhangeulbot), type `/word` command to get a word and an audio file.
 
