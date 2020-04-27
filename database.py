@@ -36,7 +36,7 @@ def create_audio(text, language='ko-KR'):
   # Build the voice request, select the language code ("ko-KR") and the ssml
   # voice gender ("neutral")
   voice = texttospeech.types.VoiceSelectionParams(
-    language_code='ko-KR',
+    language_code=language,
     ssml_gender=texttospeech.enums.SsmlVoiceGender.NEUTRAL)
 
   # Select the type of audio file you want returned
